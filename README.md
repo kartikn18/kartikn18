@@ -50,46 +50,22 @@ const kartik = {
 
 </div>
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikn18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikn18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikn18&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikn18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-<div align="center">
+| Project | Description | Tech Stack |
+|------|-------------|------------|
+| [LetsChat](https://github.com/kartikn18/letschat) | Real-time chat app | Node.js, Socket.io |
+| [Blogging Website](https://github.com/kartikn18/bloggingWebsite) | Blogging platform | MERN |
+| [Notes App](https://github.com/kartikn18/notesapp) | Notes manager | Express, MongoDB |
+| [Support Page](https://github.com/kartikn18/SupportPage) | Support system | Node.js |
 
-<a href="https://github.com/kartikn18/letschat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikn18&repo=letschat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
 
-<a href="https://github.com/kartikn18/bloggingWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikn18&repo=bloggingWebsite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/kartikn18/notesapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikn18&repo=notesapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/kartikn18/SupportPage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartikn18&repo=SupportPage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
-</div>
 
 ---
 
