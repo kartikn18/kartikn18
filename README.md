@@ -97,10 +97,10 @@ while (alive) {
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] Master system design patterns
-- [ ] Build 10+ production-ready projects
+- [ ] Build 3 production ready backend projects
 - [ ] Contribute to major open-source projects
 - [ ] Learn Kubernetes & Docker
 - [ ] Build a SaaS product
