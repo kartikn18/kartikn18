@@ -63,7 +63,7 @@ const kartik = {
 | [LetsChat](https://github.com/kartikn18/letschat) | Real-time chat app | Node.js, Socket.io |
 | [Blogging Website](https://github.com/kartikn18/bloggingWebsite) | Blogging platform | MERN |
 | [Notes App](https://github.com/kartikn18/notesapp) | Notes manager | Express, MongoDB |
-| [Urbanplay](https://github.com/kartikn18/bloggingWebsite) | Razorpay | Node.js |Cloudinary|MERN
+| [Urbanplay](https://github.com/kartikn18/bloggingWebsite) | Booking Platform | Node.js |Cloudinary|MERN
 
 
 
