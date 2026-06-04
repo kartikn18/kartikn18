@@ -84,7 +84,7 @@ while (alive) {
 - 🌱 Learning **microservices & cloud deployment**
 - 👯 Looking to collaborate on **MERN stack projects**
 - 💬 Ask me about **Node.js, Express, MongoDB, APIs**
-- 📫 Reach me at **[LinkedIn](https://linkedin.com/in/kartik-narang)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/kartik-narang18/)**
 - ⚡ Fun fact: **Debugging is like being a detective in a crime movie where you're also the murderer**
 
 ---
